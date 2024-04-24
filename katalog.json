@@ -1,0 +1,15 @@
+const furnitureCatalog = [
+    {
+        id: 1,
+        name: "Table",
+        description: "A sturdy wooden table for your dining room.",
+        price: 200
+    },
+    {
+        id: 2,
+        name: "Sofa",
+        description: "A comfortable sofa for your living room.",
+        price: 500
+    },
+    // Add more furniture items as needed
+];
