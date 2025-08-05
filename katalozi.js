@@ -4,7 +4,7 @@
         "pdfLink":"https://matis.rs/wp-content/uploads/2025/08/Veliki-flajer.pdf"
       },
       { "src": "https://github.com/anzelikam/padinaKomerc-update/blob/main/jela-katalog.jpg?raw=true",
-       "pdfLink": "https://jela.rs/pub/download/JELA-Katalog-2020-rs.pdf"
+       "pdfLink": "https://jela.rs/article/jela/Akcije.html"
       },
       { "src": "https://github.com/anzelikam/padinaKomerc-update/blob/main/djuka-katalog.jpg?raw=true",
        "pdfLink": "https://djukapromet.com/wp-content/uploads/2020/05/Katalog-2020.pdf"
