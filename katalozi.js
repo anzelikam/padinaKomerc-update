@@ -1,7 +1,7 @@
 [
       {
         "src": "https://github.com/anzelikam/padinaKomerc-update/blob/main/matis-katalog.jpg?raw=true",
-        "pdfLink":"https://matis.rs/wp-content/uploads/2025/09/Flajer-oktobar_1.pdf"
+        "pdfLink":"https://matis.rs/wp-content/uploads/2026/01/Flajer-Januar-2026.pdf"
       },
       { "src": "https://github.com/anzelikam/padinaKomerc-update/blob/main/jela-katalog.jpg?raw=true",
        "pdfLink": "https://jela.rs/article/jela/Akcije.html"
